@@ -6,6 +6,10 @@ A full-stack personal finance management application with receipt processing, da
 
 ## Features
 
+https://github.com/user-attachments/assets/bd7c6a3a-978c-48bb-afaa-9dc1c38ddd0a
+
+
+
 ### Core
 - Income & Expense Management (add, edit, categorize)
 - Interactive Charts & Analytics
